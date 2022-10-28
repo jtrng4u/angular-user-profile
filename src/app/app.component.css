@@ -1,0 +1,14 @@
+.read-profile {
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    background-color: thistle; 
+    height: 150px;
+    width: 300px;
+}
+
+
+.write-profile {
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;     
+    background-color: aqua; 
+    height: 150px;
+    width: 300px;
+}
